@@ -1,0 +1,20 @@
+# NAME Proxy
+# AUTHOR: Esgz
+# By Surge
+
+# ======= 手动维护规则 ========
+
+DOMAIN-SUFFIX,gyks.cf
+
+DOMAIN-SUFFIX,vossc.com
+
+DOMAIN-SUFFIX,czyl.cf
+DOMAIN-SUFFIX,doubi.tk
+DOMAIN-SUFFIX,langge.tk
+DOMAIN-SUFFIX,langge.cf
+
+# ikuuu
+DOMAIN-KEYWORD,ikuuu
+
+# Raw 429
+DOMAIN,raw.bgithub.xyz

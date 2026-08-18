@@ -1,0 +1,12 @@
+# NAME Direct
+# AUTHOR: Esgz
+# By Surge
+
+# ======= 手动维护规则 ========
+
+# Edge 扩展商店
+DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
+
+# Eplayerx
+#DOMAIN-SUFFIX,eplayerx.com
+
