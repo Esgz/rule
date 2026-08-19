@@ -4,6 +4,7 @@
 
 # ======= 手动维护规则 ========
 
+# read
 DOMAIN-SUFFIX,gyks.cf
 
 DOMAIN-SUFFIX,vossc.com
@@ -18,3 +19,7 @@ DOMAIN-KEYWORD,ikuuu
 
 # Raw 429
 DOMAIN,raw.bgithub.xyz
+
+# dns.google
+IP-CIDR,8.8.8.8/32
+IP-CIDR,8.8.8.8/32
