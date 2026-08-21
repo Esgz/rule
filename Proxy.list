@@ -4,6 +4,16 @@
 
 # ======= 手动维护规则 ========
 
+# Cloudflare DoH 域名分流
+DOMAIN,cloudflare-dns.com
+DOMAIN-SUFFIX,cloudflare.com
+
+# Cloudflare DNS IP 分流
+IP-CIDR,1.1.1.1/32
+IP-CIDR,1.0.0.1/32
+IP-CIDR6,2606:4700:4700::1111/128
+IP-CIDR6,2606:4700:4700::1001/128
+
 # DOMAIN
 DOMAIN,raw.bgithub.xyz
 
@@ -16,6 +26,8 @@ DOMAIN-SUFFIX,doubi.tk
 DOMAIN-SUFFIX,langge.tk
 DOMAIN-SUFFIX,langge.cf
 DOMAIN-SUFFIX,yuntuibao.net
+DOMAIN-SUFFIX,repcz.link
+DOMAIN-SUFFIX,wizcase.com
 
 # KEYWORD
 DOMAIN-KEYWORD,ikuuu
@@ -24,5 +36,7 @@ DOMAIN-KEYWORD,ikuuu
 # IP-CIDR
 IP-CIDR,8.8.8.8/32
 IP-CIDR,8.8.8.8/32
+
+
 
 
